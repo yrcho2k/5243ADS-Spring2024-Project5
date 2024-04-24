@@ -1,7 +1,7 @@
 # Project 5: Free Topic Final Project
 5243ADS-Spring2024-Project5
 
-## Speed Dating
+## Speed Dating Analysis - Predicting the likelihood of having a follow-up date
 Term: Spring 2024
 
 + + Team members
