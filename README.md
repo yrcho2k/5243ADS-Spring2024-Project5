@@ -8,7 +8,7 @@ Term: Spring 2024
 	+ Cho, Yerin
 	+ Lee, Rhoan	rl3405
 	+ Wu, Licheng
-	+ 
+	+ Lu, Kechen
 
 + **Project summary**: 
 - Overview
