@@ -18,7 +18,7 @@ Our project aims to predict the likelihood of follow-up dates in a speed dating 
 
 
 + **Contribution statement**: ([default](doc/a_note_on_contributions.md)) 
-Rhoan Lee conducted exploratory data analysis and temporal analysis on the dataset to determine the decision-making feature, and implemented and evaluated a gradient boosting model. Rhoan also gathered the team and put together the whole code. 
+Rhoan Lee conducted exploratory data analysis and temporal analysis on the dataset to determine the feature that has the highest influence, and implemented and evaluated a gradient boosting model. Rhoan also gathered the team and put together the whole code. 
 
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
