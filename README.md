@@ -7,7 +7,7 @@ Term: Spring 2024
 + + Team members
 	+ Cho, Yerin
 	+ Lee, Rhoan
-	+ 
+	+ Wu, Licheng
 	+ 
 
 + **Project summary**: 
